@@ -104,6 +104,7 @@
     "rxjs": "^6.5.5",
     "semver": "^6.3.0",
     "ts-jest": "^26.4.4",
+    "tslib": "2.4.0",
     "typescript": "4.5.5",
     "typescript-transform-paths": "^2.2.3",
     "utf-8-validate": "^5.0.2",
@@ -214,13 +215,13 @@
     }
   },
   "resolutions": {
+    "tslib": "2.4.0",
     "@types/react": "16.14.2",
     "@typescript/lib-dom": "npm:@types/web@*",
     "@types/webpack": "^5.28.0",
     "react": "16.14.0",
     "react-dom": "16.14.0",
     "pretty-format": "25.5.0",
-    "typescript": "4.5.5",
     "codex-tooltip": "1.0.2",
     "@pulumi/pulumi": "3.25.0",
     "@pulumi/aws": "4.28.0",
