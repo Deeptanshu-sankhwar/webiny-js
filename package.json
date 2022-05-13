@@ -217,6 +217,7 @@
   "resolutions": {
     "tslib": "2.4.0",
     "@types/react": "16.14.2",
+    "typescript": "4.5.5",
     "@typescript/lib-dom": "npm:@types/web@*",
     "@types/webpack": "^5.28.0",
     "react": "16.14.0",
